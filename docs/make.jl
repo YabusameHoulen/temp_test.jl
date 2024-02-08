@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/yabusamehoulen/temp_test.jl",
+    repo="github.com/YabusameHoulen/temp_test.jl",
     devbranch="master",
 )
